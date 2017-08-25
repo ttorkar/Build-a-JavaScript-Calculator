@@ -1,0 +1,61 @@
+html, body {
+  background-image:url("http://wallpapercave.com/wp/eZC6IVf.jpg")
+}
+
+h1{
+  color:#DE1B1B;
+  font-family:"Mukta";
+}
+h2{
+  color:#F6F6F6;
+  font-family:Arial;
+  
+}
+#calcOutput{
+  background-color:white;
+  height:80px;
+  width:250px;
+  border-top-left-radius:2em;
+  border-top-right-radius:2em;
+  margin-right:auto;
+  margin-left:auto; 
+  margin-top:15px;
+  padding-top:10px;
+  border: 7px black solid;
+  
+}
+
+#calculator{
+  background-color:#585850;
+  width:250px;
+  height:auto;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-bottom-right-radius:2em;
+  border-bottom-left-radius:2em;
+  margin-right:auto;
+  margin-left:auto;
+  color:#fff;
+  border-left: 5px black solid;
+  border-right: 5px black solid;
+  border-bottom: 5px black solid;
+  
+}
+#steps{
+  padding-left:40px;
+  font-size:2em;
+  
+}
+.bigButton{
+  width:100px;
+}
+a{
+  color:#white;
+  margin:3px;
+  width: 40px;
+  height: 40px;
+  color:#fff;
+  font-size:15px;
+
+}
+
